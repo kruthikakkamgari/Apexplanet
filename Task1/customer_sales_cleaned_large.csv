@@ -1,0 +1,16 @@
+Customer_ID,Customer_Name,Order_Date,Product,Category,Quantity,Unit_Price,Payment_Mode,City,Total_Price
+202,Not Available,2025-12-02,Saree,Fashion,5,56814,Cash,Chennai,284070
+214,Sneha,2025-09-02,Headphones,Fashion,4,4697,Cash,Hyderabad,18788
+215,Sneha,2025-02-01,Saree,Electronics,2,21732,Cash,Vijayawada,43464
+221,Priya,2025-09-02,Mobile,Electronics,1,19131,Cash,Bangalore,19131
+230,Anil,2025-01-01,Headphones,Fashion,3,25178,Card,Chennai,75534
+214,Rahul,2025-10-02,Shoes,Fashion,2,46972,Cash,Mumbai,93944
+221,Not Available,2025-02-02,Watch,Fashion,5,51915,UPI,Mumbai,259575
+221,Rahul,2025-04-01,Shoes,Electronics,1,10621,Card,Chennai,10621
+200,Kiran,2025-07-02,Watch,Electronics,5,39754,Cash,Vijayawada,198770
+205,Rahul,2025-05-02,Headphones,Fashion,4,34410,Card,Vijayawada,137640
+230,Priya,2025-11-02,Saree,Electronics,5,8942,UPI,Bangalore,44710
+201,Anil,2025-02-03,Shoes,Electronics,4,30618,Cash,Mumbai,122472
+222,Meena,2025-02-03,Mobile,Electronics,5,2631,UPI,Mumbai,13155
+218,Kiran,2025-08-01,Mobile,Fashion,3,7094,Cash,Mumbai,21282
+219,Sneha,2025-06-02,Shoes,Fashion,4,14416,Card,Mumbai,57664
