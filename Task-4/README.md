@@ -75,4 +75,4 @@ The new website design significantly improves both conversion rate and revenue. 
 
 ## 👩‍💻 Author
 Kruthika Akkamgari  
-Computer Science Student | Aspiring Data Scientist
+
