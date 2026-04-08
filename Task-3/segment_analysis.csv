@@ -1,0 +1,4 @@
+customer_segment,count,mean,sum
+High Value,2,87500.0,175000
+Low Value,3,14000.0,42000
+Medium Value,3,24000.0,72000
