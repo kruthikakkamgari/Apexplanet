@@ -1,0 +1,13 @@
+customer_id,month,website_version,visits,conversions,revenue
+1,Jan,Old,120,10,5000
+2,Jan,Old,150,12,6000
+3,Jan,New,130,18,9000
+4,Jan,New,160,22,11000
+5,Feb,Old,140,11,5500
+6,Feb,Old,155,13,6200
+7,Feb,New,170,25,12000
+8,Feb,New,180,28,14000
+9,Mar,Old,160,14,7000
+10,Mar,Old,170,15,7500
+11,Mar,New,190,30,15000
+12,Mar,New,200,35,17000

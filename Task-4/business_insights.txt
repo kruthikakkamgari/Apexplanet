@@ -1,0 +1,19 @@
+--- BUSINESS INSIGHTS ---
+
+Average Conversion Rate:
+website_version
+New    0.151912
+Old    0.083585
+Name: conversion_rate, dtype: float64
+
+Average Revenue:
+website_version
+New    13000.0
+Old     6200.0
+Name: revenue, dtype: float64
+
+--- HYPOTHESIS TESTING ---
+T-Statistic: 11.444151989826423
+P-Value: 4.5576218603458556e-07
+
+Result: Significant improvement with NEW website
