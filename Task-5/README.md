@@ -109,7 +109,7 @@ During this internship, I worked on real-world datasets and business problems in
 
 ## 📬 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/kruthika-akkamgari/
+* LinkedIn: www.linkedin.com/in/kruthika-akkamgari-925468400
 * GitHub: https://github.com/kruthikakkamgari
 
 ---
